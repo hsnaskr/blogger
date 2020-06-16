@@ -1,4 +1,6 @@
-
+/*syntax highlight
+// edited by @hsnaskr
+*/
 
 ! function(e) {
  var t = "object" == typeof window && window || "object" == typeof self && self;
